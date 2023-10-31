@@ -11,6 +11,7 @@
     },
     "rules" : {
         "no-console": "off",
+        "prefer-const": "off",
         "quotes": [
             "error",
             "double"
